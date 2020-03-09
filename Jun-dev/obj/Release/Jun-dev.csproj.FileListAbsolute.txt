@@ -1,0 +1,6 @@
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\bin\Release\Jun-dev.exe.config
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\bin\Release\Jun-dev.exe
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\bin\Release\Jun-dev.pdb
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\obj\Release\Jun-dev.csproj.CoreCompileInputs.cache
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\obj\Release\Jun-dev.exe
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\obj\Release\Jun-dev.pdb

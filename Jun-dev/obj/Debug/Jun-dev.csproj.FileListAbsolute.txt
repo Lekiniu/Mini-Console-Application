@@ -1,0 +1,14 @@
+C:\Users\ika\source\repos\Jun-dev\Jun-dev\obj\Debug\Jun-dev.csprojAssemblyReference.cache
+C:\Users\ika\source\repos\Jun-dev\Jun-dev\obj\Debug\Jun-dev.csproj.CoreCompileInputs.cache
+C:\Users\ika\source\repos\Jun-dev\Jun-dev\bin\Debug\Jun-dev.exe.config
+C:\Users\ika\source\repos\Jun-dev\Jun-dev\bin\Debug\Jun-dev.exe
+C:\Users\ika\source\repos\Jun-dev\Jun-dev\bin\Debug\Jun-dev.pdb
+C:\Users\ika\source\repos\Jun-dev\Jun-dev\obj\Debug\Jun-dev.exe
+C:\Users\ika\source\repos\Jun-dev\Jun-dev\obj\Debug\Jun-dev.pdb
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\bin\Debug\Jun-dev.exe.config
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\bin\Debug\Jun-dev.exe
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\bin\Debug\Jun-dev.pdb
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\obj\Debug\Jun-dev.csprojAssemblyReference.cache
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\obj\Debug\Jun-dev.csproj.CoreCompileInputs.cache
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\obj\Debug\Jun-dev.exe
+C:\Users\ika\Desktop\Jun-dev\Jun-dev\Jun-dev\obj\Debug\Jun-dev.pdb

@@ -1,0 +1,10 @@
+﻿● cmd: profile - new profile
+● cmd: statistics - see statistics of profiles
+● cmd: save - save the new profile
+● cmd: restart_profile - restart profile during filling it
+● cmd: find -<name> find a profile by name
+● cmd: delete -<name> delete a profile by name
+● cmd: list - show list of profiles
+● cmd: zip <name> < saved folder>; zip txt file of profile 
+● cmd: help - avalaible commands
+● cmd: exit - end of console after filling profile.
